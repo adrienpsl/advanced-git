@@ -2,7 +2,9 @@
 ## Exercise Four - Merging and ReReRe
 
 ### Overview
-In this exercise, we'll take a look at the fast-forward merge, learn how to make a non-fast-forward merge, then learn how to use git's Reuse Recorded Resolution (ReReRe) functionality to automate complex merges.
+In this exercise, we'll take a look at the fast-forward merge, learn how  
+to make a non-fast-forward merge, then learn how to use git's Reuse Recorded  
+Resolution (ReReRe) functionality to automate complex merges.
 
 ### Prerequisite
 You should have the [`advanced-git-exercises`](https://github.com/nnja/advanced-git-exercises)  repository cloned locally. Checkout the `exercise4` branch:
